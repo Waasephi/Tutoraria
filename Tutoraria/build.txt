@@ -1,0 +1,4 @@
+displayName = Tutoraria
+author = Waasephi
+version = 1.0
+homepage = https://discord.gg/7cfCTMJ
